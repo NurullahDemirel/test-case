@@ -1,4 +1,4 @@
-1-composer install for vendor file
+1-"composer install" to install  vendor file
 
 2-enter db inf to .env file
 
